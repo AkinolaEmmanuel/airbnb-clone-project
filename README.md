@@ -15,3 +15,9 @@ Tester who is in-charge of testing and checking product features and use cases t
 
 UI/Ux Designer 
 Designer who helps create wireframes and demo designs to help visualize the product idea and vision
+
+Project Technologies 
+
+OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
+Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
+GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
