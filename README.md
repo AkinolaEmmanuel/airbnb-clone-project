@@ -47,3 +47,21 @@ Features: Post and manage reviews for properties.
 Database Optimizations
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
+
+
+Feature Breakdown
+
+User Management: Implement a secure system for user registration, authentication, and profile management.
+Property Management: Develop features for property listing creation, updates, and retrieval.
+Booking System: Create a booking mechanism for users to reserve properties and manage booking details.
+Payment Processing: Integrate a payment system to handle transactions and record payment details.
+Review System: Allow users to leave reviews and ratings for properties.
+Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
+
+Api Security
+
+Authentication: Ensure all users are accredited and have required permission to access different features on the application
+
+CI/CD Pipeline
+
+Continuous integration and continuous development will be setup to maintain code quality across testing, staging and prod and to ensure a consistency in the flow from development to deployment
