@@ -101,11 +101,13 @@ Secondary: #008489
 Background: #FFFFFF
 Text: #222222
 Secondary Text: #717171
+
 Typography:
 
 Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
+
 Project Roles and Responsibilities
 Role	Responsibilities
 Project Manager	Oversees timeline, coordinates team, manages deliverables
@@ -116,6 +118,7 @@ QA/Testers	Writes test cases, performs testing, reports bugs
 DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
 Product Owner	Defines requirements, prioritizes features, represents stakeholders
 Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+
 UI Component Patterns
 Planned Components
 Navbar
@@ -136,4 +139,5 @@ Site links
 Company information
 Social media links
 Copyright information
+
 Each component will be designed for reusability and consistency across the application.
