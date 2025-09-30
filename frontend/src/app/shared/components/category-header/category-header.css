@@ -1,0 +1,21 @@
+.flex {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.flex-col .title {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.flex-col .subtitle {
+    font-size: 1rem;
+    color: gray;
+}

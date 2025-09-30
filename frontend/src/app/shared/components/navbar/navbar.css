@@ -1,0 +1,37 @@
+.logo {
+    width: 8rem;
+    height: auto;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.gray {
+    background: rgb(237, 237, 237);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .75rem;
+    border-radius: 100%;
+}
+
+.gray:hover {
+    cursor: pointer;
+    background: rgb(200, 200, 200);
+}
+
